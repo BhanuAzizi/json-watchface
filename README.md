@@ -12,7 +12,7 @@
 A watch face for **Amazfit Bip 6** (Zepp OS) that turns your wrist into a code editor. Your time, date and health stats live inside a `watchface.json` file, styled like VS Code.
 
 <p align="center">
-  <img src="docs/simulator.png" width="300" alt="JSON Watchface running in the Zepp OS simulator">
+  <img src="docs/demo.gif" width="300" alt="JSON Watchface running in the Zepp OS simulator">
 </p>
 
 ## Why JSON Watchface
